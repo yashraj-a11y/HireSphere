@@ -9,13 +9,6 @@ import {ENV} from "./lib/env.js"
 
 
 
-
-
-
-
-
-
-
 app.get('/help',(req,res) => {
     res.status(200).json({"msg" : "api is up and running"})
 })
