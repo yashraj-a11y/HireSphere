@@ -28,6 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      {/* just to maintain daily git commit i am adding this line */}
     </>
   )
 }
